@@ -47,9 +47,7 @@ Statyczna biblioteka CSPICE.
 Summary:	Documentation for CSPICE
 Summary(pl.UTF-8):	Dokumentacja do CSPICE
 Group:		Documentation
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description doc
 Documentation for CSPICE.
